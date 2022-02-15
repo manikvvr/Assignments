@@ -6,7 +6,7 @@
         -->Assignment -1.pdf
         -->Assignment -2.pdf
         -->Assignment -3.pd
-##3)UML Diagrams
+## 3)UML Diagrams
         -->UML Assignment.docx
-##4)Core JAVA
+## 4)Core JAVA
     
