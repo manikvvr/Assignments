@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXCEPTION HANDLING/EXCEPTION HANDLING.iml" filepath="$PROJECT_DIR$/EXCEPTION HANDLING/EXCEPTION HANDLING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/annotations.iml" filepath="$PROJECT_DIR$/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capgemini assignment.iml" filepath="$PROJECT_DIR$/capgemini assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data structure/data structure.iml" filepath="$PROJECT_DIR$/data structure/data structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java 11/java 11.iml" filepath="$PROJECT_DIR$/java 11/java 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data structure/oops.iml" filepath="$PROJECT_DIR$/data structure/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops assignments/oops assignments.iml" filepath="$PROJECT_DIR$/oops assignments/oops assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
